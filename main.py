@@ -2,7 +2,7 @@ import os
 
 LINE = (
     "My calendar is so full of meetings about meetings that I now "
-    "schedule meetings to recover from scheduling meetings."
+    "book meetings to recover from booking meetings."
 )
 
 
